@@ -1,4 +1,4 @@
-<h1 align="center">🌡️ Weather Today </h1>
+<h1 align="center">🌡️ Weather Forecasting </h1>
 <!--START_SECTION:weather-->
 
 <div align="center">
