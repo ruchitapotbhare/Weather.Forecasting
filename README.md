@@ -14,7 +14,7 @@
 <p align="centeadme-typing-svg.herokuapp.com?size=30&color=328AFF&center=true&vCenter=true&height=100&lines=Our+is+watchakorn-18k"
 alt="adam-pw" /></a></p>
 <p align="center">
-   <a><img src="https://komarev.com/ghpvc/?username=watchakorn-18k&label=Profile%20views&color=5ceb38"
+   <a><img src="https://komarev.com/ghpvc/?username=ruchi-18k&label=Profile%20views&color=5ceb38"
 alt="adam-pw" /></a>
   <a href="https://discord.gg/AsZgC95SYu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
     <img src="https://img.shields.io/discord/639137693975969803?color=%23E4A14D&label=Discord%2018K%20%E2%84%A2%20Official&logo=discord&logoColor=white"/></a>
